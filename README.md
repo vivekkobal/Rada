@@ -1,1 +1,1 @@
-pip install pytssx3,pyaudio,wolfrmalpha,wikipedia,datetime
+pip install pytssx3,pyaudio,wolfrmalpha,wikipedia,datetime,speechrecognization
